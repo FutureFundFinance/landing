@@ -1,14 +1,14 @@
 <template>
-  <EasyBank />
+  <Future />
 </template>
 
 <script>
-import EasyBank from './components/Easybank.vue';
+import Future from './views/Future.vue';
 
 export default {
   name: 'App',
   components: {
-    EasyBank
+    Future
   }
 }
 </script>
