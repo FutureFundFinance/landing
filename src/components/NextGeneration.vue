@@ -1,12 +1,15 @@
 <template>
   <section class="next-generation-section">
         <article class="next-generation-article">
-          <h1 class="Somos">Tu fondo de ahorro Web3</h1>
+          <h1 class="Somos">¡Bienvenido a FutureFund!</h1>
           <p class="next-generation-text">
-            En Future Fund te ayudamos a hacer realidad tus sueños.
+            Un fondo de ahorros descentralizado para tu futuro.
           </p>
           <p class="next-generation-text">
-            Usamos tecnología Blockchain y Stablecoins para generar ingresos pasivos a mediano y largo plazo.
+            ¿Estás preocupado por tu estabilidad económica a largo plazo? ¿Te gustaría tener una opción confiable para ahorrar y planificar tu retiro, viajes o metas financieras? En FutureFund, hemos creado una solución fácil y accesible para aquellos que no tienen conocimientos avanzados en finanzas o criptomonedas.
+          </p>
+          <p class="next-generation-text">
+            Nuestra misión es empoderar a las poblaciones vulnerables y sin conocimientos financieros, brindándoles una plataforma segura y descentralizada para administrar sus ahorros a largo plazo.
           </p>
           
         </article>
@@ -33,7 +36,7 @@
 .next-generation-article {
   display: flex;
   flex-direction: column;
-  padding-top: 16rem;
+  padding-top: 10rem;
   padding-left: 1rem;
   font-size: 1rem;
 }

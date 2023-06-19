@@ -1,15 +1,15 @@
 <template>
   <section class="section-why-easybank">
         <div class="div-why-easybank">
-          <h2 class="title-why-easybank">¿Por qué usar Future Fund?</h2>
+          <h2 class="title-why-easybank">¿Por qué elegir FutureFund?</h2>
           <p class="text-title-why-easybank">
-            Cualquiera sea tu meta de ahorro: una Working Holiday, ahorrar para un viaje, para la fiesta de 15 de tu hija o para tu casamiento, podemos ayudarte a hacerlos realidad.
+            Nuestro equipo, compuesto por latinos que comprenden la inestabilidad monetaria en nuestra región, se dedica a ofrecerte una alternativa confiable y previsible para tu futuro financiero.
           </p>
           <p class="text-title-why-easybank">
-            El monto y el plazo lo definís vos.
+            Únete a FutureFund hoy mismo y toma el control de tus ahorros a largo plazo. ¡Tu futuro está en tus manos!
           </p>
           <p class="text-title-why-easybank">
-            Tu plata es tuya y siempre lo va a ser.
+            (CTA) Regístrate ahora y comienza a construir tu futuro financiero con FutureFund.
           </p>
         </div>
         <div class="div-icones-why-easybank">
@@ -19,9 +19,9 @@
               alt=""
               class="icon-why-easybank"
             />
-            <h3 class="title-icon-why-easybank">Servicios financieros descentralizados</h3>
+            <h3 class="title-icon-why-easybank">Acceso sencillo</h3>
             <p class="text-icon-why-easybank">
-              Nuestra plataforma permite a las personas sin conocimientos avanzados en criptomonedas o finanzas acceder a servicios financieros descentralizados. Esto les brinda la oportunidad de ahorrar e invertir de manera práctica a largo plazo.
+              No necesitas ser un experto en criptomonedas o finanzas para comenzar. Nuestra plataforma te guiará paso a paso, desde la creación de tu billetera hasta la inversión de tus fondos.
             </p>
           </article>
           <article class="article-why-easybank">
@@ -30,9 +30,9 @@
               alt=""
               class="icon-why-easybank"
             />
-            <h3 class="title-icon-why-easybank">Seguridad y confianza en las inversiones</h3>
+            <h3 class="title-icon-why-easybank">Seguridad descentralizada</h3>
             <p class="text-icon-why-easybank">
-              Future Fund ofrece una alternativa segura. Mediante el uso de contratos inteligentes y la descentralización de datos a través de Cedalio, los usuarios pueden tener mayor confianza en la gestión de sus inversiones y en la protección de sus activos.
+              A diferencia de los sistemas tradicionales que dependen de empresas o gobiernos, en FutureFund tus ahorros están protegidos por contratos inteligentes en la cadena de bloques, evitando riesgos de quiebras o fraudes.
             </p>
           </article>
           <article class="article-why-easybank">
@@ -41,9 +41,9 @@
               alt=""
               class="icon-why-easybank"
             />
-            <h3 class="title-icon-why-easybank">Flexibilidad y control sobre tus ahorros</h3>
+            <h3 class="title-icon-why-easybank">Opciones cripto diversificadas</h3>
             <p class="text-icon-why-easybank">
-              Nuestros usuarios pueden administrar su propio ahorro a largo plazo para objetivos específicos, como el retiro, viajes u otras aplicaciones. Incluso aquellos que no hayan aportado previamente para su jubilación o que hayan trabajado en empleos no registrados pueden tener la oportunidad de construir un fondo de ahorros personalizado.
+              Te ofrecemos acceso a diferentes opciones cripto a través de nuestro pool de liquidez. Puedes elegir entre paquetes de inversión conservadores, moderados o arriesgados, según tus objetivos y tolerancia al riesgo.
             </p>
           </article>
           <article class="article-why-easybank">
@@ -52,9 +52,9 @@
               alt=""
               class="icon-why-easybank"
             />
-            <h3 class="title-icon-why-easybank">Modelo de negocio sostenible</h3>
+            <h3 class="title-icon-why-easybank">Modelo autosustentable</h3>
             <p class="text-icon-why-easybank">
-              Nuestro modelo de negocios está diseñado para ser económicamente sólido y sostenible a lo largo del tiempo, sin depender de financiamiento externo constante. Esto nos permite brindar tranquilidad a nuestros usuarios, ya que pueden confiar en que nuestra plataforma cuidará su capital para satisfacer sus necesidades a largo plazo.
+              Nos enfocamos en construir un modelo financiero sólido y autosustentable. Cobramos comisiones de entrada y salida, penalizaciones por retiros anticipados y ofrecemos servicios opcionales de mentoría y eventos.
             </p>
           </article>
         </div>
