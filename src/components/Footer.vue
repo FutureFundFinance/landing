@@ -2,7 +2,7 @@
   <footer class="padding-content">
       <div class="logo-emote-nav">
         <div class="logo-emote">
-          <img src="../assets/images/logo.svg" alt="" class="logo-footer" />
+          <img src="../assets/images/Logo_FutureFund_Blanco.png" alt="" class="logo-footer" />
           <div class="emote-footer">
             <img
               src="../assets/images/icon-facebook.svg"
@@ -48,7 +48,7 @@
       </div>
       <div class="button-easy-rights">
         <Button class="button-footer"/>
-        <p class="text-easy-rights">© Easybank. All Rights Reserved</p>
+        <p class="text-easy-rights">© Future Fund CO. All Rights Reserved</p>
       </div>
     </footer>
 </template>
@@ -66,14 +66,16 @@ export default {
 <style scoped>
 
 footer {
-  background-color: var(--font-color);
+  background-color: #2b074b; /*var(--font-color);*/
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding-right: 8rem;
 }
 
-.logo-footer,
+.logo-footer
+  {height: 3rem;
+  margin-top: 1rem;}
 .emote-footer {
   margin: 2rem 1rem 2rem 0.5rem;
 }
