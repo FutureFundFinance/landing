@@ -1,11 +1,12 @@
 <template>
   <section class="next-generation-section">
         <article class="next-generation-article">
-          <h1>Next generation digital banking</h1>
+          <h1 class="Somos">Tu fondo de ahorro Web3</h1>
           <p class="next-generation-text">
-            Take your financial life online. Your Easybank account will be a
-            one-stop-shop for spending, saving, budgeting, investing, and much
-            more.
+            En Future Fund te ayudamos a hacer realidad tus sueños.
+          </p>
+          <p class="next-generation-text">
+            Usamos tecnología Blockchain y Stablecoins para generar ingresos pasivos a mediano y largo plazo.
           </p>
           <Button />
         </article>
@@ -32,12 +33,13 @@
 .next-generation-article {
   display: flex;
   flex-direction: column;
-  padding-top: 10rem;
+  padding-top: 18rem;
   padding-left: 1rem;
+  font-size: 1rem;
 }
 
-h1 {
-  font-size: 4rem;
+.Somos {
+  font-size: 3rem;
   font-weight: 50;
   margin-bottom: 1rem;
 }

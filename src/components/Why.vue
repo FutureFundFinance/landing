@@ -1,10 +1,18 @@
 <template>
   <section class="section-why-easybank">
         <div class="div-why-easybank">
-          <h2 class="title-why-easybank">Why choose Easybank?</h2>
+          <h2 class="title-why-easybank">¿Por qué usar Future Fund?</h2>
           <p class="text-title-why-easybank">
-            We leverage Open Banking to turn your bank account into your
-            financial hub. Control your finances like never before.
+            En Future Fund queremos ayudarte a hacer realidad esos sueños que pareces entar siempre fuera de alcance.
+          </p>
+          <p class="text-title-why-easybank">
+            Cualquiera sea tu meta de ahorro: una Working Holiday, ahorrar para un viaje, para la fiesta de 15 de tu hija o para tu casamiento.
+          </p>
+          <p class="text-title-why-easybank">
+            El monto y el plazo lo definís vos.
+          </p>
+          <p class="text-title-why-easybank">
+            Tu plata es tuya y siempre lo va a ser.
           </p>
         </div>
         <div class="div-icones-why-easybank">
@@ -72,19 +80,20 @@
 }
 
 .title-why-easybank {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 50;
   margin-bottom: 1rem;
 }
 
 .text-title-why-easybank {
   width: 60%;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 
 .div-icones-why-easybank {
   display: flex;
   width: 92%;
+  margin-top: 3rem;
 }
 
 .article-why-easybank {
