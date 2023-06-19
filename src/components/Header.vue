@@ -1,8 +1,8 @@
 <template>
   <header class="bannier padding-content">
       <img
-        src="../assets/images/logo.svg"
-        alt="Easybank's logo"
+        src="../assets/images/Logo_FutureFund_Blanco.png" 
+        alt="Future Fund logo"
         class="logo-header"
       />
       <nav class="nav-header">
@@ -35,11 +35,13 @@ export default {
   align-items: center;
   padding: 1rem;
   margin-right: 8rem;
-  margin-left: 8rem;
+  /*margin-left: 8rem;*/
+  background-color: #3f0a6e;
+  width: 100%;
 }
 
 .logo-header {
-  height: 1.5rem;
+  height: 3rem;
 }
 
 .ul-header > li {
