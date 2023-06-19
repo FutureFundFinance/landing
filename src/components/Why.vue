@@ -3,10 +3,7 @@
         <div class="div-why-easybank">
           <h2 class="title-why-easybank">¿Por qué usar Future Fund?</h2>
           <p class="text-title-why-easybank">
-            En Future Fund queremos ayudarte a hacer realidad esos sueños que pareces entar siempre fuera de alcance.
-          </p>
-          <p class="text-title-why-easybank">
-            Cualquiera sea tu meta de ahorro: una Working Holiday, ahorrar para un viaje, para la fiesta de 15 de tu hija o para tu casamiento.
+            Cualquiera sea tu meta de ahorro: una Working Holiday, ahorrar para un viaje, para la fiesta de 15 de tu hija o para tu casamiento, podemos ayudarte a hacerlos realidad.
           </p>
           <p class="text-title-why-easybank">
             El monto y el plazo lo definís vos.
@@ -22,10 +19,9 @@
               alt=""
               class="icon-why-easybank"
             />
-            <h3 class="title-icon-why-easybank">Online Banking</h3>
+            <h3 class="title-icon-why-easybank">Servicios financieros descentralizados</h3>
             <p class="text-icon-why-easybank">
-              Our modern web and mobile applications allow you to keep track of
-              your finances wherever you are in the world.
+              Nuestra plataforma permite a las personas sin conocimientos avanzados en criptomonedas o finanzas acceder a servicios financieros descentralizados. Esto les brinda la oportunidad de ahorrar e invertir de manera práctica a largo plazo.
             </p>
           </article>
           <article class="article-why-easybank">
@@ -34,10 +30,9 @@
               alt=""
               class="icon-why-easybank"
             />
-            <h3 class="title-icon-why-easybank">Simple Budgeting</h3>
+            <h3 class="title-icon-why-easybank">Seguridad y confianza en las inversiones</h3>
             <p class="text-icon-why-easybank">
-              See exactly where your money goes each month. Receive
-              notifications when you’re close to hitting your limits.
+              Future Fund ofrece una alternativa segura. Mediante el uso de contratos inteligentes y la descentralización de datos a través de Cedalio, los usuarios pueden tener mayor confianza en la gestión de sus inversiones y en la protección de sus activos.
             </p>
           </article>
           <article class="article-why-easybank">
@@ -46,10 +41,9 @@
               alt=""
               class="icon-why-easybank"
             />
-            <h3 class="title-icon-why-easybank">Fast Onboarding</h3>
+            <h3 class="title-icon-why-easybank">Flexibilidad y control sobre tus ahorros</h3>
             <p class="text-icon-why-easybank">
-              We don’t do branches. Open your account in minutes online and
-              start taking control of your finances right away.
+              Nuestros usuarios pueden administrar su propio ahorro a largo plazo para objetivos específicos, como el retiro, viajes u otras aplicaciones. Incluso aquellos que no hayan aportado previamente para su jubilación o que hayan trabajado en empleos no registrados pueden tener la oportunidad de construir un fondo de ahorros personalizado.
             </p>
           </article>
           <article class="article-why-easybank">
@@ -58,10 +52,9 @@
               alt=""
               class="icon-why-easybank"
             />
-            <h3 class="title-icon-why-easybank">Open API</h3>
+            <h3 class="title-icon-why-easybank">Modelo de negocio sostenible</h3>
             <p class="text-icon-why-easybank">
-              Manage your savings, investments, pension, and much more from one
-              account. Tracking your money has never been easier.
+              Nuestro modelo de negocios está diseñado para ser económicamente sólido y sostenible a lo largo del tiempo, sin depender de financiamiento externo constante. Esto nos permite brindar tranquilidad a nuestros usuarios, ya que pueden confiar en que nuestra plataforma cuidará su capital para satisfacer sus necesidades a largo plazo.
             </p>
           </article>
         </div>
@@ -97,12 +90,12 @@
 }
 
 .article-why-easybank {
-  padding: 1rem;
+  padding: .5rem;
 }
 
 .icon-why-easybank,
 .title-icon-why-easybank,
 .text-icon-why-easybank {
-  margin: 1rem;
+  margin: 1.5rem;
 }
 </style>

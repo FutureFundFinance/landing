@@ -8,12 +8,12 @@
           <p class="next-generation-text">
             Usamos tecnología Blockchain y Stablecoins para generar ingresos pasivos a mediano y largo plazo.
           </p>
-          <Button />
+          
         </article>
         <div class="next-generation-phones">
           <img
             src="../assets/images/image-mockups.png"
-            alt="Phones with easybank app"
+            alt="Phones with Future Fund app"
             class="next-generation-image"
           />
         </div>
@@ -33,7 +33,7 @@
 .next-generation-article {
   display: flex;
   flex-direction: column;
-  padding-top: 18rem;
+  padding-top: 16rem;
   padding-left: 1rem;
   font-size: 1rem;
 }
@@ -46,6 +46,7 @@
 
 .next-generation-text {
   margin-bottom: 1rem;
+  font-size: 1.2rem;
 }
 
 .next-generation-phones {
@@ -53,7 +54,7 @@
   background-image: url(../assets/images/bg-intro-desktop.svg);
   background-size: cover;
   background-repeat: no-repeat;
-  margin-top: -8rem;
+  margin-top: 0rem;
   padding-left: 14rem;
 }
 
